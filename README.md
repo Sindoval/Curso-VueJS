@@ -1,2 +1,2 @@
 # Curso-VueJS
-Repositorio que acompanhará meu aprendizado do framwork Vue.Js
+Repositorio que acompanhará meu aprendizado no framwork Vue.Js
